@@ -1,0 +1,3 @@
+== README
+
+Blogwonder is a simple blog system demo app. A project requirement made by Grace Sojor.
